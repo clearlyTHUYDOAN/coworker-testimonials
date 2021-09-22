@@ -1,4 +1,4 @@
-### Testimonials 🦄
+# Testimonials 🦄
 
 This is an archive of testimonials from current and past coworkers.
 
