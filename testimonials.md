@@ -36,6 +36,10 @@ They were asked to answer, "What is it like to have Thuy as a coworker / work wi
 
 "Thuy is an exceptional colleague and an even better person. I had the privilege of working closely with her at Astro, and her presence on the team was truly invaluable. Her ability to remain calm and maintain a positive attitude under pressure made a significant impact on my daily work. Beyond that, she consistently enhanced cross-team processes and played a key role in the success of major company initiatives. I would consider myself very fortunate to have the opportunity to work with her again."
 
+## Nate Moore, Senior Software Engineer 💻
+
+"Thuy is the best of the best. Her enthusiasm, candor, and efficiency had an outsized impact on Astro's operational maturity. She is a rare combination of fearless, methodical, and kind that makes her an instant multiplier for everyone who works with her. Her ownership was a critical factor in the success of multiple major company initiatives. Thuy's executional excellence and positivity continue to inspire me. I'm incredibly grateful for our time working together!"
+
 ## Sumira Mathews, Agile Lead 🚀
 
 “Working with Thuy brings a refreshing breath of sportsmanship and accountability in our team, while constantly pushing our product and ourselves to reach its maximum potential. Thuy advocates growth both professionally and personally, and has inspired her teammates to do the same. Lastly, her work towards EDI regulations has not only been an asset, but an integral component to our company growth!”
