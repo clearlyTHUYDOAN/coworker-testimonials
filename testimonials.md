@@ -40,7 +40,7 @@ They were asked to answer, "What is it like to have Thuy as a coworker / work wi
 
 "Thuy is the best of the best. Her enthusiasm, candor, and efficiency had an outsized impact on Astro's operational maturity. She is a rare combination of fearless, methodical, and kind that makes her an instant multiplier for everyone who works with her. Her ownership was a critical factor in the success of multiple major company initiatives. Thuy's executional excellence and positivity continue to inspire me. I'm incredibly grateful for our time working together!"
 
-## Erica Moreau, Software Engineer 💻
+## Erika Moreau, Software Engineer 💻
 
 "Working with Thuy was nothing short of an absolute joy. She quickly built genuine connections with everyone around her after joining our team, making her an integral part of our group. Her attention to detail, enthusiasm, and positivity made every project she was a part of feel energised and enjoyable, and I will always think fondly of the time spent working together!"
 
